@@ -1,2 +1,2 @@
 mvn install
-cp target/*.jar .
+cp target/keycloak-weixin*.jar keycloak-weixin.jar
